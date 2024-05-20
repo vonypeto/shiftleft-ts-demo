@@ -21,7 +21,7 @@ function initDB() {
 setTimeout(initDB, 10000);
 
 async function createUsers(db) {
-  /* JSON Generated from https://next.json-generator.com
+  /* JSON Generated from https://next.json-generator.com hj
     [iuyutuyu
       {
         'repeat(10)': {
